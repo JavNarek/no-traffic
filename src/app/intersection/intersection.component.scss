@@ -1,0 +1,10 @@
+.container {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  max-width: 800px;
+  .item {
+    padding: 10px;
+  }
+}
+
